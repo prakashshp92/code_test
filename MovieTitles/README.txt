@@ -4,3 +4,17 @@
 
 
 Sample Input
+
+
+Enter the movie substring to find
+spider
+Enter the movie names
+spider man
+A spiderman
+This is the spider
+<end/>
+
+Sample output
+A spiderman
+spider man
+This is the spider
